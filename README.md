@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black&link=https%3A%2F%2Fleetcode.com%2Fahmad9059%2F)
 ![Static Badge](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white&link=https%3A%2F%2Fauth.geeksforgeeks.org%2Fuser%2Fahmadhasvau7)
 ![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fahmadhassan9059)
+![Static Badge](https://img.shields.io/badge/CodeForces-%231c97d3?style=for-the-badge&logo=codeforces&logoColor=%23b31f25&labelColor=%23fad262&link=https%3A%2F%2Fdevpost.com%2Fahmad9059)
 ![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54&link=https%3A%2F%2Fdevpost.com%2Fahmad9059)
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
