@@ -76,7 +76,7 @@
   - 2021 - 2022
 
 ---
-## 💼Work Experience
+## 💼 Work Experience
 
 #### Jan 2022 - Mar 2022
 #### Digistartup · Internship
