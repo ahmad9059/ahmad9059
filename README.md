@@ -5,10 +5,6 @@
 ![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fahmadhassan9059)
 ![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54&link=https%3A%2F%2Fdevpost.com%2Fahmad9059)
 
-
-
-
-
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
 - 🌱 I’m currently learning  Data Structure & Algorithm (DSA)
