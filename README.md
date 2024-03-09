@@ -67,7 +67,7 @@
 
 - **MNS-University of Agriculture, Multan**
   - Bachelor of Science in Computer Science
-  - GPA: 3.4/4.0
+  - GPA: 3.8/4.0
   - 2023 - 2027
 
 - **Government Milat Graduate College, Multan**
