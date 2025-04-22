@@ -12,10 +12,10 @@
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 I’m currently learning  Data Structure & Algorithm (DSA)
+- 🌱 I’m currently learning  MERN Stack Development
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Complete the DSA at the end of year
-- 🐍 💻Skilled in Python, Java, and C++
+- 🥅 2025 Goals: Complete the Full Stack Web Development and build projects
+- 🐍 💻Skilled in JavaScript, Python and C++
 - 🎯Effective Problem Solve
 - ⚡ Fun fact: I love to play games
 
