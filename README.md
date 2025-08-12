@@ -17,8 +17,8 @@
 
 ### 🤝Connect with me:
 
-[![website](./img/globe-light.svg)](http://itsahmd.me)
-[![website](./img/globe-dark.svg)](http://itsahmd.me)
+[![website](./img/globe-light.svg)](http://ahmad.study#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://ahmad.study#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmad9059/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmad9059/#gh-dark-mode-only)
@@ -26,8 +26,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/ahmadhassan9059#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ahmadhassan9059#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ahmad9059.dev#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmad9059.dev#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ahmad_hassan9059#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahmad_hassan9059#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-dark-mode-only)
