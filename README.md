@@ -1,18 +1,14 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey there! Nice to See You 👋 </h1>
 
-
-
-
 [![Static Badge](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/ahmad9059/)
 [![Static Badge](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white)](https://auth.geeksforgeeks.org/user/ahmadhasvau7)
 [![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b)](https://www.hackerrank.com/profile/ahmadhassan9059)
 [![Static Badge](https://img.shields.io/badge/codeforces-%231c97d3?style=for-the-badge&logo=codeforces&logoColor=%23b31f25&labelColor=%23fad262)](https://codeforces.com/profile/ahmad9059)
 [![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/ahmad9059)
 
-
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 I’m currently learning  MERN Stack Development
+- 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Complete the Full Stack Web Development and build projects
 - 🐍 💻Skilled in JavaScript, Python and C++
@@ -35,7 +31,6 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-dark-mode-only)
-
 
 ### 🛠️Languages and Tools:
 
@@ -66,8 +61,9 @@
 ## 🎓 Education
 
 - **MNS-University of Agriculture, Multan**
+
   - Bachelor of Science in Computer Science
-  - GPA: 3.5/4.0
+  - GPA: 3.6/4.0
   - 2023 - 2027
 
 - **Government Milat Graduate College, Multan**
@@ -76,17 +72,18 @@
   - 2021 - 2022
 
 ---
+
 ## 💼 Work Experience
 
 #### Jan 2022 - Mar 2022
+
 #### Digistartup · Internship
+
 ##### Web Developer
 
 - Contributed as a Web Developer at DigiStartup, actively participating in various projects and initiatives for a duration of 3 months.
 - Demonstrated proficiency in both front-end and back-end development, implementing solutions that enhanced website functionality and user experience.
 - Collaborated effectively with cross-functional teams, showcasing adaptability and problem-solving skills in a dynamic startup environment.
-
-
 
 ---
 
@@ -125,11 +122,4 @@
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/11b35e54-5f7a-4299-add7-3e7640244c70/badges/6106892?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [Introduction to Large Language Models](https://www.cloudskillsboost.google/public_profiles/11b35e54-5f7a-4299-add7-3e7640244c70/badges/6106974?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
-
-
-
-
-
 </details>
-
-
