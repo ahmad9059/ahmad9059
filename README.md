@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/ahmad9059/)
 [![Static Badge](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white)](https://auth.geeksforgeeks.org/user/ahmadhasvau7)
 [![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b)](https://www.hackerrank.com/profile/ahmadhassan9059)
-[![Static Badge](https://img.shields.io/badge/codeforces-%231c97d3?style=for-the-badge&logo=codeforces&logoColor=%23b31f25&labelColor=%23fad262)](https://codeforces.com/profile/ahmad9059)
+![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=circuitverse&logoColor=blue&labelColor=white)
 [![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/ahmad9059)
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
