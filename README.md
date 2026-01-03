@@ -8,11 +8,11 @@
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 🌱 I’m currently learning System Design and Architecture
+- 🌱 I’m currently learning System Design and Architecture
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2026 Goals: Master System Design and Architecture and build impactful projects
 - 🐍 💻Skilled in JavaScript, Python and C++
-- 🎯Effective Problem Solve
+- 🎯 Effective Problem Solve
 - ⚡ Fun fact: I love to play games
 
 ### 🤝Connect with me:
