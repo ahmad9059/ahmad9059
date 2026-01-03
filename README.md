@@ -8,9 +8,9 @@
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 🌱 I’m currently learning System Design and Architecture
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Complete the Full Stack Web Development and build projects
+- 🥅 2026 Goals: Master System Design and Architecture and build impactful projects
 - 🐍 💻Skilled in JavaScript, Python and C++
 - 🎯Effective Problem Solve
 - ⚡ Fun fact: I love to play games
