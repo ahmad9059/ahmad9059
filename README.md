@@ -8,8 +8,8 @@
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 I’m currently learning System Design and Architecture
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I'm currently learning System Design and Architecture
+- 👯 I'm looking to collaborate with other developers
 - 🥅 2026 Goals: Master System Design and Architecture and build impactful projects
 - 🐍 💻Skilled in JavaScript, Python and C++
 - 🎯 Effective Problem Solve
@@ -75,6 +75,25 @@
 
 ## 💼 Work Experience
 
+#### Oct 2025 - Present
+
+#### VieroMind Foundation, Inc. · Full-time
+
+##### Associate Software Engineer
+
+📍 Islamabad, Pakistan | 🛠️ Full-Stack Development
+
+At VieroMind Foundation, I contribute to building technology-driven mental health solutions that make care more accessible and personalized. My work focuses on developing scalable full-stack applications and AI-powered wellness tools that help users journal, reflect, and connect with community support safely and effectively.
+
+**Key Contributions:**
+- Developing and maintaining modern full-stack web applications using Next.js, TypeScript, and Node.js
+- Collaborating with the AI team to integrate machine learning and NLP features into journaling and wellness tools
+- Building secure, user-friendly interfaces that enhance engagement and trust in mental health platforms
+- Working on APIs, databases, and deployment pipelines to ensure reliability and scalability
+- Contributing to the mission of making mental health care accessible, safe, and technology-driven
+
+---
+
 #### Jan 2022 - Mar 2022
 
 #### Digistartup · Internship
@@ -115,7 +134,7 @@
 - [AI For Everyone](https://www.coursera.org/account/accomplishments/certificate/WXYWQ2YNDYDM)
 - [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/7542b0741a9d)
 - [CSS (Basic) Certificate](https://www.hackerrank.com/certificates/ec9c2f21378e)
-- [Communication Foundations](https://www.linkedin.com/learning/certificates/fdd28a01a154e1a3726bf0c4ed770ab9a5711ad3ff49195e405d7ee0fb48262e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bgx198JUTTFCq270FdB8q5A%3D%3D)
+- [Communication Foundations](https://www.linkedin.com/learning/certificates/fdd28a01a154e1a3726bf0c4ed770ab9a5711ad3ff49195e405d7ee0fb48262e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3PJOJrDoQVeYeuzrclY9tw%3D%3D)
 - [Solving Problems with Creative and Critical Thinking](https://coursera.org/share/3618aa2411daaeb8472285108b01d6ea)
 - [Google Cloud Digital Leader Training](https://www.coursera.org/account/accomplishments/specialization/certificate/RFTCJ5KWNSMR)
 - [Foundations: Data, Data, Everywhere](https://coursera.org/share/cf5eaca2e9e6ffb7485dd5e2751e37d8)
