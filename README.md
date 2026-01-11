@@ -75,34 +75,23 @@
 
 ## 💼 Work Experience
 
-#### Oct 2025 - Present
+### Associate Software Engineer | VieroMind Foundation, Inc.
+**Oct 2025 - Present** · Full-time · Islamabad, Pakistan
 
-#### VieroMind Foundation, Inc. · Full-time
+Building technology-driven mental health solutions with scalable full-stack applications and AI-powered wellness tools.
 
-##### Associate Software Engineer
-
-📍 Islamabad, Pakistan | 🛠️ Full-Stack Development
-
-At VieroMind Foundation, I contribute to building technology-driven mental health solutions that make care more accessible and personalized. My work focuses on developing scalable full-stack applications and AI-powered wellness tools that help users journal, reflect, and connect with community support safely and effectively.
-
-**Key Contributions:**
-- Developing and maintaining modern full-stack web applications using Next.js, TypeScript, and Node.js
-- Collaborating with the AI team to integrate machine learning and NLP features into journaling and wellness tools
-- Building secure, user-friendly interfaces that enhance engagement and trust in mental health platforms
-- Working on APIs, databases, and deployment pipelines to ensure reliability and scalability
-- Contributing to the mission of making mental health care accessible, safe, and technology-driven
+- Developing full-stack web apps using Next.js, TypeScript, and Node.js
+- Integrating ML and NLP features into journaling and wellness tools
+- Building secure, user-friendly interfaces for mental health platforms
+- Managing APIs, databases, and deployment pipelines
 
 ---
 
-#### Jan 2022 - Mar 2022
+### Web Developer | Digistartup
+**Jan 2022 - Mar 2022** · Internship
 
-#### Digistartup · Internship
-
-##### Web Developer
-
-- Contributed as a Web Developer at DigiStartup, actively participating in various projects and initiatives for a duration of 3 months.
-- Demonstrated proficiency in both front-end and back-end development, implementing solutions that enhanced website functionality and user experience.
-- Collaborated effectively with cross-functional teams, showcasing adaptability and problem-solving skills in a dynamic startup environment.
+- Contributed to front-end and back-end development, enhancing website functionality and user experience
+- Collaborated with cross-functional teams in a dynamic startup environment
 
 ---
 
