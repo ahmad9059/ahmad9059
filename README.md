@@ -58,21 +58,6 @@
 
 ---
 
-## 🎓 Education
-
-- **MNS-University of Agriculture, Multan**
-
-  - Bachelor of Science in Computer Science
-  - GPA: 3.6/4.0
-  - 2023 - 2027
-
-- **Government Milat Graduate College, Multan**
-  - Intermediate in Computer Science (ICS)
-  - 92%
-  - 2021 - 2022
-
----
-
 ## 💼 Work Experience
 
 ### Associate Software Engineer | VieroMind Foundation, Inc.
@@ -92,6 +77,21 @@ Building technology-driven mental health solutions with scalable full-stack appl
 
 - Contributed to front-end and back-end development, enhancing website functionality and user experience
 - Collaborated with cross-functional teams in a dynamic startup environment
+
+---
+
+## 🎓 Education
+
+- **MNS-University of Agriculture, Multan**
+
+  - Bachelor of Science in Computer Science
+  - GPA: 3.6/4.0
+  - 2023 - 2027
+
+- **Government Milat Graduate College, Multan**
+  - Intermediate in Computer Science (ICS)
+  - 92%
+  - 2021 - 2022
 
 ---
 
