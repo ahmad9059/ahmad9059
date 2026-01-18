@@ -8,14 +8,14 @@
 
 ## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
 
-- 🌱 I'm currently learning System Design and Architecture
-- 👯 I'm looking to collaborate with other developers
-- 🥅 2026 Goals: Master System Design and Architecture and build impactful projects
-- 🐍 💻Skilled in JavaScript, Python and C++
-- 🎯 Effective Problem Solve
-- ⚡ Fun fact: I love to play games
+- I'm currently learning System Design and Architecture
+- I'm looking to collaborate with other developers
+- 2026 Goals: Master System Design and Architecture and build impactful projects
+- Skilled in JavaScript, Bash, Python and C++
+- Effective Problem Solve
+- Fun fact: I love to play games
 
-### 🤝Connect with me:
+### Connect with me:
 
 [![website](./img/globe-light.svg)](http://ahmad.study#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://ahmad.study#gh-dark-mode-only)
@@ -32,7 +32,7 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCmS3VxB8an5AW7l6BFM2wrg#gh-dark-mode-only)
 
-### 🛠️Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="arch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
@@ -58,7 +58,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Associate Software Engineer | VieroMind Foundation, Inc.
 **Oct 2025 - Present** · Full-time · Islamabad, Pakistan
@@ -80,7 +80,7 @@ Building technology-driven mental health solutions with scalable full-stack appl
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MNS-University of Agriculture, Multan**
 
@@ -114,7 +114,7 @@ Building technology-driven mental health solutions with scalable full-stack appl
 </details>
 
 <details>
-  <summary>📜Certification</summary>
+  <summary>Certification</summary>
 
 - [Digital Transformation with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/GLWEXBQTMH7G)
 - [Innovating with Google Cloud Artificial Intelligence](https://www.coursera.org/account/accomplishments/certificate/NK5FY2PWH3BB)
