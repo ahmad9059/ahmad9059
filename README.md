@@ -96,7 +96,7 @@ Building technology-driven mental health solutions with scalable full-stack appl
 ---
 
 <details>
-  <summary>:zap:Skill</summary>
+  <summary>Skill</summary>
   
 <!--START_SECTION:activity-->
 - DSA (C/C++/Python/Java)
