@@ -11,7 +11,7 @@
 - I'm currently learning System Design and Architecture
 - I'm looking to collaborate with other developers
 - 2026 Goals: Master System Design and Architecture and build impactful projects
-- Skilled in JavaScript, Bash, Python and C++
+- Skilled in JavaScript, Bash, C++ and Golang
 - Effective Problem Solve
 - Fun fact: I love to play games
 
