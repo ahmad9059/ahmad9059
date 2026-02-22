@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=circuitverse&logoColor=blue&labelColor=white&color=blue)](https://www.itsahmad.me)
 [![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/ahmad9059)
 
-## I'm a Software Engineer, ArchLinux Enthusiast, Developer!!
+## I'm a Software Engineer, ArchLinux User, Developer!!
 
 - I'm currently learning System Design and Architecture
 - I'm looking to collaborate with other developers
