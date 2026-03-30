@@ -1,10 +1,10 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> Hey there! Nice to See You 👋 </h1>
 
-[![Static Badge](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/ahmad9059/)
-[![Static Badge](https://img.shields.io/badge/GeeksforGeeks-%232f8d46?style=for-the-badge&logo=geeksforgeeks&labelColor=white)](https://auth.geeksforgeeks.org/user/ahmadhasvau7)
-[![Static Badge](https://img.shields.io/badge/HackerRank-%2332c766?style=for-the-badge&logo=hackerrank&labelColor=%231c212b)](https://www.hackerrank.com/profile/ahmadhassan9059)
-[![Static Badge](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=circuitverse&logoColor=blue&labelColor=white&color=blue)](https://www.itsahmad.me)
-[![Static Badge](https://img.shields.io/badge/DevPost%20Profile-%233acce6?style=for-the-badge&logo=devpost&labelColor=%23003e54)](https://devpost.com/ahmad9059)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a)](https://ahmadx.dev)
+[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmad9059x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad9059)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black)](https://leetcode.com/u/ahmad9059)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ahmad9059x)
 
 ## I'm a Software Engineer, ArchLinux User, Developer!!
 
