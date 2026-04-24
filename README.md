@@ -5,7 +5,7 @@ I'm a Software Engineer, I often write TypeScript, Fullstack, using Node.js on t
 If you want to meet in Pakistan, my localhost, ping me 🐻
 
 - 🌱 I’m currently learning System Design and Architecture
-- Currently building HyprFlux and related stuff ([hyprflux.dev](hyprflux.dev))
+- Currently building HyprFlux and related stuff ([hyprflux.dev](https://hyprflux.dev))
 - 💬 Ask me about Code/Math/Linux
 - 📫 How to reach me: `hi@ahmadx.dev`
 
