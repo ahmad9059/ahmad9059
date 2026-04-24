@@ -5,8 +5,8 @@ I'm a Software Engineer, I often write TypeScript, Fullstack, using Node.js on t
 If you want to meet in Pakistan, my localhost, ping me 🐻
 
 - 🌱 I’m currently learning System Design and Architecture
-- Currently building HyprFlux and related stuff ([https://hyprflux.dev/](https://hyprflux.dev/))
-- 💬 Ask me about Tea / Linux
+- Currently building HyprFlux and related stuff ([hyprflux.dev](hyprflux.dev))
+- 💬 Ask me about Code/Math/Linux
 - 📫 How to reach me: `hi@ahmadx.dev`
 
 
@@ -33,8 +33,8 @@ If you want to meet in Pakistan, my localhost, ping me 🐻
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" style="padding-right:10px;" />
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" />
 <img align="left" alt="Ngnix" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" style="padding-right:10px;" />
-<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
